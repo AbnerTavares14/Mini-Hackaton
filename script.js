@@ -39,8 +39,8 @@ function mostraTemperatura(resposta){
     <p>Temperatura Máxima:${tempMax}°C</p>
     <p>Temperatura Mínima:${tempMin}°C</p>
     <p>Sensação térmica:${sensacao}°C</p>
-    <p>Sensação térmica:${pressao}mB</p>
-    <p>Sensação térmica:${umidade}%</p>
+    <p>Pressão:${pressao}mB</p>
+    <p>Umidade:${umidade}%</p>
     </div>`
 }
 
